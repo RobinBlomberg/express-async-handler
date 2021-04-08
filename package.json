@@ -1,6 +1,6 @@
 {
   "name": "@robinblomberg/express-async-handler",
-  "version": "1.0.0-beta1",
+  "version": "1.0.0",
   "author": "Robin Blomberg",
   "main": "index.js",
   "types": "index.d.ts",
